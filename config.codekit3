@@ -9,21 +9,26 @@
 	],
 "creatorBuild": "25504",
 "files": {
+	"\/.jshintrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.jshintrc",
+		"oF": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/stylesheet-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
+	"\/js.js": {
+		"ft": 64,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "\/stylesheet-min-min.css",
+		"oAP": "\/js-min.js",
 		"oF": 0,
-		"oS": 0
+		"sC": 1,
+		"tS": 0
 		},
 	"\/stylesheet.css": {
 		"aP": 1,
